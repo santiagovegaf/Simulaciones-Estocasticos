@@ -71,3 +71,6 @@ print("tiempo", despues - antes, "s")
 plt.scatter(x,y)
 plt.show() 
 
+
+
+
